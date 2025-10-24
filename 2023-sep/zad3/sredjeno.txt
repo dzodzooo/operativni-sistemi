@@ -1,0 +1,6 @@
+1 Ja
+2 Volim
+1 Da
+2 Ucim
+1 Operativne
+2 Sisteme
